@@ -4,7 +4,7 @@ I’m a frontend developer with a UX focus living in Chicago, IL. I’m passiona
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidi919)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidi919&hide=contribs,issues,stars&show_icons=true)
+<!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidi919&hide=contribs,issues,stars&show_icons=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidi919)](https://github.com/anuraghazra/github-readme-stats) -->
 
